@@ -1,0 +1,2 @@
+# SwiychCase
+If else statement.  
